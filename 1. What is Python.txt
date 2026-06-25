@@ -1,0 +1,45 @@
+1. What is Python?
+
+Answer: Python is a high-level, interpreted, object-oriented programming language.
+
+2. What are the features of Python?
+
+Answer:
+
+Easy to learn
+Interpreted language
+Object-oriented
+Platform independent
+Large standard library
+
+3. What is an interpreter?
+
+Answer: An interpreter executes Python code line by line without compiling the entire program first.
+
+4. What is a variable?
+
+Answer: A variable is a name used to store a value in memory.
+
+name = "John"
+age = 25
+
+5. What are Python's basic data types?
+
+Answer:
+
+int
+float
+str
+bool
+
+6. What is a list?
+
+Answer: A list is an ordered, mutable collection of items.
+
+nums = [1, 2, 3]
+
+7. What is a tuple?
+
+Answer: A tuple is an ordered, immutable collection of items.
+
+t = (1, 2, 3)
