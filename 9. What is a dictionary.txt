@@ -1,0 +1,98 @@
+9. What is a dictionary?
+
+Answer: A dictionary stores data in key-value pairs.
+
+student = {"name": "John", "age": 20}
+
+
+10. What is a set?
+
+Answer: A set is an unordered collection of unique elements.
+
+s = {1, 2, 3}
+
+
+11. Difference between List and Set?
+List	Set
+Allows duplicates	No duplicates
+Ordered	Unordered
+
+
+12. What is a function?
+
+Answer: A function is a block of reusable code.
+
+def greet():
+    print("Hello")
+
+
+
+13. What is recursion?
+
+Answer: Recursion is when a function calls itself.
+
+
+
+14. What is a module?
+
+Answer: A module is a Python file containing functions, variables, and classes.
+
+
+
+15. What is a package?
+
+Answer: A package is a collection of related Python modules.
+
+
+
+16. What is OOP?
+
+Answer: Object-Oriented Programming is a programming approach based on objects and classes.
+
+
+
+17. What is a class?
+
+Answer: A class is a blueprint for creating objects.
+
+class Student:
+    pass
+
+
+18. What is an object?
+
+Answer: An object is an instance of a class.
+
+s1 = Student()
+
+
+19. What is inheritance?
+
+Answer: Inheritance allows one class to acquire properties and methods of another class.
+
+
+
+20. What is polymorphism?
+
+Answer: Polymorphism allows the same method name to behave differently for different objects.
+
+
+
+21. What is encapsulation?
+
+Answer: Encapsulation means binding data and methods together in a class and restricting direct access to data.
+
+
+
+22. What is abstraction?
+
+Answer: Abstraction hides implementation details and shows only essential features.
+
+
+23. What are access specifiers in Python?
+
+Answer:
+
+Public
+Protected (_var)
+Private (__var)
