@@ -1,0 +1,65 @@
+24. What is name mangling?
+
+Answer: Python changes private variable names internally to avoid direct access.
+
+class Test:
+    __x = 10
+
+Internally becomes:
+
+_Test__x
+
+
+25. What is exception handling?
+
+Answer: Exception handling is used to handle runtime errors without stopping the program.
+
+try:
+    a = 10 / 0
+except ZeroDivisionError:
+    print("Error")
+
+
+26. What is the difference between == and is?
+
+== → Compares values.
+
+is → Compares memory locations (object identity).
+
+
+
+27. What is a decorator?
+
+Answer: A decorator is a function that adds extra functionality to another function without modifying it.
+
+
+
+28. What is *args?
+
+Answer: It allows a function to accept multiple positional arguments.
+
+def add(*args):
+    print(args)
+
+
+29. What is **kwargs?
+
+Answer: It allows a function to accept multiple keyword arguments.
+
+def show(**kwargs):
+    print(kwargs)
+
+
+30. What is the difference between append() and extend()?
+
+append()
+
+a = [1, 2]
+a.append([3, 4])
+# [1, 2, [3, 4]]
+
+extend()
+
+a = [1, 2]
+a.extend([3, 4])
+# [1, 2, 3, 4]
