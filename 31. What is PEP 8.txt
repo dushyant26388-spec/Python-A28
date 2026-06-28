@@ -1,0 +1,51 @@
+31. What is PEP 8?
+
+Answer: PEP 8 is the official style guide for writing clean and readable Python code.
+
+
+
+32. Is Python case-sensitive?
+
+Answer: Yes. name and Name are different variables.
+
+
+
+33. What is indentation in Python?
+
+Answer: Indentation (spaces or tabs) defines blocks of code. Python uses indentation instead of {}.
+
+
+
+34. What is a comment?
+
+Answer: A comment is ignored by Python and is used to explain code.
+
+Single-line: # Comment
+Multi-line: Triple quotes (''' ''' or """ """)
+
+
+35. What is a keyword?
+
+Answer: A keyword is a reserved word with a predefined meaning in Python, such as if, for, while, class, and return.
+
+
+
+36. What is an identifier?
+
+Answer: An identifier is the name given to variables, functions, classes, or objects.
+
+
+
+37. What are mutable data types?
+
+Answer: Mutable objects can be changed after creation.
+
+Examples: List, Dictionary, Set.
+
+
+
+38. What are immutable data types?
+
+Answer: Immutable objects cannot be changed after creation.
+
+Examples: int, float, string, tuple, bool.
